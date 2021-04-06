@@ -6,7 +6,7 @@ function myFunc(){
     console.log(actualNum);
     if(actualNum == Math.floor(10){
         document.getElementById("aneG").innerText = "Tahminin doğru! Harikasın ❤️";
-        location.reload();
+        location.replace("https://github.com/barcafatih/rastgelesayi");
 
         
     }
