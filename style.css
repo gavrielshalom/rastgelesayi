@@ -1,0 +1,19 @@
+body{
+    display: flexbox;
+    background-color: #1e1e1e;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: #fafafa;
+    
+}
+#guessNumber{
+    font-size: 16px;
+}
+.button{
+    outline: none;
+    color: #fefefe;
+    font-size: 16px;
+    background-color: #dc3545;
+    height: 30px;
+    width: 100px;
+}
